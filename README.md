@@ -23,7 +23,7 @@ An A/B test analysis and an interactive Streamlit dashboard that answer one ques
 
 ## Live demo
 
-_Coming soon (deploying on Streamlit Community Cloud)._
+  [Open the live dashboard](https://a-b-testing-99iutbjf2xpaumnudnu9d6.streamlit.app/)
 
 ## Dashboard preview
 
